@@ -1,0 +1,45 @@
+# Binaries
+/cfp
+/cfp.exe
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of go coverage tool
+*.out
+
+# Dependency directories
+vendor/
+
+# Go workspace
+go.work
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+*.cfp
+testdata/*.cfp
+
+# Build output
+dist/
+build/
+
+# Debug
+debug
+debug.test
+
+# Profiling
+*.prof
