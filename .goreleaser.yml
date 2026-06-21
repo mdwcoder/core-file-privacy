@@ -51,7 +51,7 @@ changelog:
 
 release:
   github:
-    owner: yourusername
+    owner: mdwcoder
     name: core-file-privacy
   draft: false
   prerelease: auto

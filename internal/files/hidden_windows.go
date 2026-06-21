@@ -3,7 +3,6 @@
 package files
 
 import (
-	"os"
 	"path/filepath"
 	"strings"
 	"syscall"

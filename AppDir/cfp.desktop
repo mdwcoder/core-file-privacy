@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Core File Privacy
+Comment=Encrypt, hide and restore private files from your terminal
+Exec=cfp %F
+Icon=cfp
+Terminal=true
+Categories=Utility;Security;ConsoleOnly;
+Keywords=encrypt;decrypt;hide;privacy;security;
